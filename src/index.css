@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: white;
+  display: flex;
+  
+}
+h1{
+  margin-bottom: 2px;
+}
+hr{
+  margin-bottom: 20px;
+}
